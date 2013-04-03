@@ -2,7 +2,6 @@
 
 """
 Logger.py implements a uniform logging mechanism for all tests.
-Report.py generates HTML reports based on a simple markup language.
 Copyright(c) 2013 Jonathan D. Lettvin, All Rights Reserved"
 
 This program is free software: you can redistribute it and/or modify
